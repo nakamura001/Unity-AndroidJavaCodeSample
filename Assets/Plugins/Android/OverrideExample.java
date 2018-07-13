@@ -1,3 +1,4 @@
+package com.example.javacode;
 import com.unity3d.player.UnityPlayerActivity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
